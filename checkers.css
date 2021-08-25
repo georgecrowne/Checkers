@@ -1,0 +1,68 @@
+td {
+	background-color: #BA7A3A;
+	width: 70px;
+	height: 70px;
+	text-align: center;
+}
+
+table {
+	margin-top: 20px;
+}
+
+.null {
+	background-color: #F0D2B4;
+}
+
+.head {
+	color: white;
+}
+
+.oneking {
+	height: 40px;
+	width: 40px;
+	margin: 15px;
+	background-color: red;
+	outline: 6px solid gold;
+	border-radius: 50px;
+}
+
+.twoking {
+	height: 40px;
+	width: 40px;
+	margin: 15px;
+	background-color: black;
+	outline: 6px solid gold;
+	border-radius: 50px;
+}
+
+.one {
+	height: 40px;
+	width: 40px;
+	margin: 15px;
+	background-color: red;
+	border: 1px solid white;
+	border-radius: 50px;
+}
+
+.two {
+	height: 40px;
+	width: 40px;
+	margin: 15px;
+	background-color: black;
+	border: 1px solid white;
+	border-radius: 50px;
+}
+
+.ghost {
+	opacity: 0.3;
+}
+
+.selectedPiece {
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+	background-color: blue;
+	border: 1px solid white;
+	border-radius: 50px;
+}
+
