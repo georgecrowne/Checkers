@@ -1,7 +1,5 @@
 # Checkers
 
-----
-
 Simple checkers game built with JavaScript, HTML, and CSS
 
 ----
